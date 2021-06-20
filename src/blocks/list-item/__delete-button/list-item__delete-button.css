@@ -1,0 +1,16 @@
+.list-item__delete-button {
+  height: 40px;
+  width: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../../../image/close.png);
+  border-color: transparent;
+}
+
+.list-item__delete-button:hover {
+  cursor: pointer;
+  transform: scale(1.2)
+}

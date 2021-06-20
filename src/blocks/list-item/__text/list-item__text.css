@@ -1,0 +1,9 @@
+.list-item__text {
+  box-sizing: border-box;
+  text-align: left;
+  width: 520px;
+  margin: 0;
+  padding: 10px;
+  color: #533E35;
+  font-size: 16px;
+}

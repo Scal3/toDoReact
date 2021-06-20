@@ -1,0 +1,8 @@
+.list-box__container {
+  position: absolute; /*необходимо для своих стрелок*/
+  height: 450px;
+  width: 600px;
+  overflow: hidden;
+  padding-left: 18px;
+  box-sizing: border-box;
+}

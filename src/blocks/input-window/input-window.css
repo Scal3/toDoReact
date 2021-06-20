@@ -1,0 +1,9 @@
+.input-window {
+  width: 550px;
+  min-height: 45px;
+  margin-bottom: 25px;
+  word-wrap: break-word;
+  overflow-y: auto;
+  border-top: 1px solid #533E35;
+  border-bottom: 1px solid #533E35;
+}

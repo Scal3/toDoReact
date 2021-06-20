@@ -1,0 +1,7 @@
+.input-and-button__input {
+  width: 200px;
+  height: 35px;
+  border: 1px solid #533E35;
+	background-color: transparent;
+	border-radius: 4px;
+}

@@ -1,0 +1,4 @@
+.input-and-button {
+  display: flex;
+  flex-direction: row;
+}

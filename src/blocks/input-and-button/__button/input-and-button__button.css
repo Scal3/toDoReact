@@ -1,0 +1,13 @@
+.input-and-button__button {
+  margin-left: 20px;
+  width: 100px;
+  height: 40px;
+  background-color: transparent;
+  border: 1px solid #533E35;
+  font-size: 23px;
+}
+
+.input-and-button__button:hover {
+  cursor: pointer;
+  transform: scale(1.1)
+}
